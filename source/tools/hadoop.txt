@@ -12,7 +12,7 @@ MongoDB Connector for Hadoop
    :depth: 1
    :class: singlecol
 
-The MongoDB Connector for Hadoop is a plugin for Hadoop that provides
+The MongoDB Connector is a plugin for Hadoop that provides
 the ability to use MongoDB as an input source and/or an output destination.
 
 The source code is available on `Github
